@@ -404,8 +404,6 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="JantantraTV.in@SD",Jantantra TV (576p)
 https://yuppftalive.akamaized.net/080823/jantantratv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Jattvibe (720p)
-https://live20.bozztv.com/giatv/giatv-jattvibe/jattvibe/playlist.m3u8
 #EXTINF:-1 tvg-id="JeevanTV.in",Jeevan TV (396p)
 https://yupplivefragcp5.yuppcdn.net/030523/smil:jeevan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="JinvaniChannel.in@SD",Jinvani Channel (720p)
@@ -788,8 +786,6 @@ http://103.81.104.118/hls/stream19.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@HD",Star Sports 1 HD [Geo-blocked]
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1Tamil.in@HD",Star Sports 1 Tamil HD
-https://live20.bozztv.com/akamaissh101/ssh101/crisungosttamil/playlist.m3u8
-#EXTINF:-1 tvg-id="StarSports1Tamil.in@HD",Star Sports 1 Tamil HD
 https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
 #EXTINF:-1 tvg-id="Starnet.in",Starnet (480p)
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
@@ -1016,3 +1012,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/in
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 tvg-id="ThendralTV.in@SD",Thendral TV (576p)
 https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in@SD" http-referrer="https://onezoo.net/",Zee Bangla (1080p)
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeebangla
